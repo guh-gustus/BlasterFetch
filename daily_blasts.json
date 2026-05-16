@@ -1164,5 +1164,778 @@
     "url": "https://research.mines.edu/events/"
    }
   ]
+ },
+ "2026-05-12": {
+  "Closures and Outages": [
+   {
+    "title": "19th Road Closure May 26 - July 3",
+    "description": "19th St between Elm and Illinois will be closed May 26 - July 3.  Detour shown in link below.",
+    "url": "https://operations.mines.edu/alert/19th-street-closure-between-elm-and-illinois-may-26-july-3-2026/2026-05-26/"
+   },
+   {
+    "title": "Book & Brew finals hours",
+    "description": "Book & Brew will have limited hours during finals",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57359"
+   },
+   {
+    "title": "SAIL will be closed May 14-15",
+    "description": "SAIL will be closed all-day!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57368"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "Dinner for Home Returns This September",
+    "description": "Thank you for supporting Dinner for Home! The program will return with service in early September.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57362"
+   },
+   {
+    "title": "INTERESTED IN SCI-FI, POSTMODERN FILM, ART, ARCHITECTURE?",
+    "description": "INVITATION TO COMPLETE YOUR 400 C+S REQ IN AN EFFICIENT, PLEASURABLE COURSE!  WELCOME TO HASS 410 (SUMMER TWO)!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57357"
+   },
+   {
+    "title": "New books available today through GeoScienceWorld!",
+    "description": "Access to books, journals, maps, conference papers, etc. focused on geological and earth sciences from your Mines Library!",
+    "url": "https://libguides.mines.edu/gsw"
+   },
+   {
+    "title": "NUGN560/MEGN598C: Global Threats & Global Arms Control",
+    "description": "Nuclear weapons are reshaping global politics. Learn the science, treaties, and technologies that keep\u2014or break\u2014the peace.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57358"
+   }
+  ],
+  "Campus Events": [
+   {
+    "title": "Join us for one last study session at Cram Jam!",
+    "description": "Join us in Labriola 5/7-5/12 for free caffeine and studying.",
+    "url": "https://www.instagram.com/clsa_mines/"
+   },
+   {
+    "title": "May 21 Lunch Bunch:  A Look Inside the Mines Foundation",
+    "description": "The Mines Foundation - you\u2019ve heard the name . . . but what really happens behind the scenes?",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57360"
+   },
+   {
+    "title": "Overview of U.S. EIA\u2019s 2026 Energy Outlook Results - today",
+    "description": "Payne Institute hybrid seminar with U.S. Energy Information Administration's Tristan Abbey, lunch provided",
+    "url": "https://calendar.mines.edu/event/18818-an-overview-of-us-energy-information"
+   }
+  ],
+  "Athletics and Rec Sports": [
+   {
+    "title": "Summer Personal Training Sale!",
+    "description": "Use code: \"summer20\" to get 20% off any personal training package this summer! Runs from May 11th to May 29th!",
+    "url": "https://recsportsstore.mines.edu/MultiVisitPass/GetProducts"
+   }
+  ]
+ },
+ "2026-05-11": {
+  "Closures and Outages": [
+   {
+    "title": "Ore Cart Silver Route Weekday Service Reduction: 5/18-8/14",
+    "description": "Update about a temporary service change affecting the Silver Route",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57350"
+   }
+  ],
+  "Employee and Benefits News": [
+   {
+    "title": "Annual Performance Review Process Training - Sign up!",
+    "description": "The Annual Performance Review process for AY 25-26 for University and Classified Staff has begun!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57196"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "CSM 101 and CSM 202 Instructor Applications Close on Sunday!",
+    "description": "Support student success! Consider applying for CSM 101 and/or CSM 202 for the fall semester!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57279"
+   },
+   {
+    "title": "Graduating? Secure Your Files Before You Leave Campus",
+    "description": "If you're graduating this spring, there are a few things to do to ensure you don\u2019t lose your data and files when you leave.",
+    "url": "https://helpcenter.mines.edu/TDClient/1946/Portal/KB/ArticleDet?ID=150577"
+   },
+   {
+    "title": "Trefny Center Engineering Learning Fellowships (ELF or ELM)",
+    "description": "Make meaningful contributions to the culture of learning at Mines in \u201926-27. Earn $2-3K. Learn more and apply by May 15.",
+    "url": "https://trefnycenter.mines.edu/fellowships/"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "2nd Year & Beyond Choice Meal Plan - Early Bird Special!",
+    "description": "Buy a 2nd Year and Beyond Choice Meal Plan May 1st \u2013 Aug 1st & get $50 bonus Munch Money!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57262"
+   },
+   {
+    "title": "Are You Graduating in May?",
+    "description": "Are you the first in your family, other than siblings to attend college?",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57303"
+   },
+   {
+    "title": "Dining & Meal Plan Changes May 16th-31st",
+    "description": "Meal plans will be offline May 16th - 31st. View updated dining hours and payment details below.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57300"
+   },
+   {
+    "title": "SciFinder-n for your chemistry needs, via the Library",
+    "description": "Lose an electron? Gotta keep an ion it. Also, keep an eye on up-to-date chemistry research via SciFinder.",
+    "url": "https://libguides.mines.edu/az.php?q=scifinder"
+   },
+   {
+    "title": "Thoughts on Okta? Want to share them?",
+    "description": "Fill out this brief survey regarding student experiences with Okta and MFA at Mines! Any and all feedback appreciated.",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSd-UthjuVxoqSRReR8IbKdD-3RaoxXN5EfoO1pT145EFdsusw/viewform"
+   }
+  ],
+  "Career, Training and Professional Development Opportunities": [
+   {
+    "title": "Earn a certification in Mental Health and First Aid on 5/18",
+    "description": "Two-day Mental Health First Aid training to recognize and support those facing mental health or substance use challenges.",
+    "url": "https://cglink.me/2iH/r1602684"
+   },
+   {
+    "title": "Grad Career Pathways Panel & Happy Hour",
+    "description": "Join us to learn from local professionals, employers & alums who represent diverse STEM paths. Free appetizers and drinks!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57356"
+   },
+   {
+    "title": "More Good Days, Together: A virtual wellness experience 5/20",
+    "description": "Join MHA for a virtual wellness event featuring chair yoga, journaling, and habit-building tips to support your mental health",
+    "url": "https://mhanational.org/calendar/more-good-days-together-a-virtual-wellness-experience/"
+   }
+  ],
+  "Club Meetings": [
+   {
+    "title": "Graduate Christian Fellowship - Mon 5/11 at 6 pm, McNeil 215",
+    "description": "Graduate Students: Join us for a home-cooked meal, a time of fellowship, and a Bible study in 1 Corinthians 15:35-58!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57348"
+   }
+  ],
+  "Athletics and Rec Sports": [
+   {
+    "title": "Mines Girls Basketball Camps: $100 Off for Mines Employees!",
+    "description": "June 1-4 (half day) & July 13-16 (all day). Open to 1st-8th Grade Girls.  Email to RSVP & claim your $100 off discount!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57320"
+   }
+  ]
+ },
+ "2026-05-08": {
+  "Closures and Outages": [
+   {
+    "title": "Career Center closed Monday, May 11 2026.",
+    "description": "Career Center closed Monday, May 11 2026.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57298"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "Reminder! Phone Requests Due in ONE WEEK",
+    "description": "You have until Friday, May 15, to request to keep a physical phone, fax, or external number.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57323"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "**UPDATED DATES TO PICK UP YOUR PROSPECTOR YEARBOOK**",
+    "description": "Are you graduating in May or December of 2026? Stop by the Plaza to pick up your Prospector Yearbook!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57349"
+   },
+   {
+    "title": "Preparing for Finals: Academic Integrity at GenAI",
+    "description": "Using GenAI without permission to complete course work, is considered academic misconduct.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57344"
+   },
+   {
+    "title": "Want to find or evaluate a source? Learn about resources?",
+    "description": "Use the Library's \u201cBook a Librarian\u201d for in-person or virtual consultations to discuss information needs, get advice, & more.",
+    "url": "https://library.mines.edu/help/"
+   }
+  ],
+  "Campus Events": [
+   {
+    "title": "Good Days, Together: Mines Counselings Mission for May",
+    "description": "We're joining Mental Health America (MHA) to focus on a simple, shared goal: helping people have more good days, together.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57095"
+   },
+   {
+    "title": "Overview of U.S. EIA\u2019s 2026 Energy Outlook Results - 5/12",
+    "description": "Payne Institute hybrid seminar with U.S. Energy Information Administration's Tristan Abbey, lunch provided",
+    "url": "https://calendar.mines.edu/event/18818-an-overview-of-us-energy-information"
+   },
+   {
+    "title": "Prepare for your exams with us at Cram Jam",
+    "description": "Join us in Labriola 5/7-5/12 for free caffeine and studying.",
+    "url": "https://www.instagram.com/clsa_mines/"
+   },
+   {
+    "title": "Take a break TODAY! Destress from finals with therapy pets.",
+    "description": "Take a \"Pause for Paws\" from 11am - 2pm in the Library. (Finn the cat will join us from 11-12:30.)",
+    "url": "https://cglink.me/2iH/r1602577"
+   },
+   {
+    "title": "Volunteer for Spring Commencement",
+    "description": "Volunteers needed for Spring 2026 commencement ceremonies on May 14 and 15.",
+    "url": "https://www.signupgenius.com/go/20F0B4BA9AF2DA2F94-63334847-spring#/"
+   }
+  ],
+  "Club Meetings": [
+   {
+    "title": "LAST LEGO CLUB MEETING OF THE SEMESTER!!!!",
+    "description": "Come stop by Lego Club one final time on 5/8 from 6-8 pm in McNeil 313 to take apart our builds and sort the leftover pieces!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57311"
+   }
+  ]
+ },
+ "2026-05-07": {
+  "Closures and Outages": [
+   {
+    "title": "Book & Brew's FINALS HOURS",
+    "description": "Book & Brew will have adjusted hours starting Friday 5/8",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57338"
+   },
+   {
+    "title": "Build & Brew LIMITED FINALS HOURS - CRAM JAM ONLY",
+    "description": "Build & Brew will be closed during normal hours starting Friday 5/8.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57339"
+   },
+   {
+    "title": "Labriola InnoHub Reduced Hours - Finals Week May 7 - May 13",
+    "description": "The InnoHub will have reduced hours for Finals Week - May 7 to May 13. Will close on May 14 - May 31.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57284"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "Action Required to Keep A Lab or Shared Phone",
+    "description": "Submit a request by May 15 to keep any shared space or lab phones and phone numbers.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57322"
+   },
+   {
+    "title": "Final Grades for Spring 2026 are due Monday, May 18",
+    "description": "Final grades for the Spring 2026 semester are due Monday, May 18 by 4:30 p.m.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57342"
+   },
+   {
+    "title": "Graduating? Secure Your Files Before You Leave Campus",
+    "description": "If you're graduating this spring, there are a few things to do to ensure you don\u2019t lose your data and files when you leave.",
+    "url": "https://helpcenter.mines.edu/TDClient/1946/Portal/KB/ArticleDet?ID=150577"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "***PICK UP YOUR PROSPECTOR YEARBOOK***",
+    "description": "Are you a senior graduating in May or December 2026? Come pick up your Prospector Yearbook!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57313"
+   },
+   {
+    "title": "Chem Store closed today: Thursday May 7th",
+    "description": "Chem Store (CSDF) is closed this Thursday May 7th and will reopen on Friday May 8th",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57310"
+   },
+   {
+    "title": "CSM 101 and CSM 202 Instructor Applications are Open!",
+    "description": "Support student success! Consider applying for CSM 101 and/or CSM 202 for the fall semester!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57277"
+   },
+   {
+    "title": "Did a relative attend Mines? Want to see their yearbook pic?",
+    "description": "Check out the Prospector Yearbooks on the Mines Repository from the library. 1913-2000 are available by clicking here!",
+    "url": "https://repository.mines.edu/handle/11124/49"
+   },
+   {
+    "title": "Learn about Artemis II with NASA+ on Kanopy!",
+    "description": "Check out the All Access NASA+ collection for free on Kanopy to learn about the Artemis II mission and more!",
+    "url": "https://mines.idm.oclc.org/login?url=https://www.kanopy.com/en/mines/category/80841"
+   },
+   {
+    "title": "Library Website Usability Study",
+    "description": "Sign up for a usability study of our library website! Complete tasks with eye tracking glasses and receive a free drink card.",
+    "url": "https://libcal.mines.edu/appointments/DUX"
+   },
+   {
+    "title": "NUCLEAR Fun Fact of the Week",
+    "description": "How did the U.S. go from dominating nuclear fuel production to depending on other countries to keep its reactors running?",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57316"
+   },
+   {
+    "title": "Order A FREE Blaster Box!",
+    "description": "From sunscreen to condoms, Blaster Boxes have you covered. Order your free box today!",
+    "url": "https://studentwellness.mines.edu/blaster-boxes/"
+   },
+   {
+    "title": "Student Organization Finance Committee Application 2026-2027",
+    "description": "Open SOFC Position",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57328"
+   }
+  ],
+  "Campus Events": [
+   {
+    "title": "CASA Pre-Finals TUTORING Today from 10-2pm in the Ballrooms!",
+    "description": "Need help studying for finals? Get tips on Calc, CS, Chem, DiffEq, Lin Alg, Physics, Circuits, Statics, etc. FREE Lunch too!",
+    "url": "https://casa.mines.edu/tutoring/"
+   },
+   {
+    "title": "ODAC Bagel Review Day TODAY 8-11 AM in Spruce Treehouse",
+    "description": "Join ODAC for bagels, coffee, tea, and orange juice on dead day! Come study, craft, relax, and more before finals!",
+    "url": "https://cglink.me/2iH/r1602904"
+   }
+  ],
+  "Career, Training and Professional Development Opportunities": [
+   {
+    "title": "5/7: Grad Student Lunch Workshop: Constructive Communication",
+    "description": "Mines Alum & Employer Sarah Chase presents tips & training for addressing conflict in the workplace and beyond. Free lunch!!",
+    "url": "https://oreconnect.mines.edu/Grad/rsvp_boot?id=1603039"
+   },
+   {
+    "title": "5/8: Grad Student Lunch Workshop - Internship Intensive!",
+    "description": "Prepare for internships with OGS/ISSS, and learn about new summer Micro-internship opportunities (ten $1000 stipends!)",
+    "url": "https://oreconnect.mines.edu/Grad/rsvp_boot?id=1603079"
+   },
+   {
+    "title": "Everyday AI: Using NotebookLM for Productivity (Virtual)",
+    "description": "Learn how to apply NotebookLM to everyday tasks and boost your productivity.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57160"
+   },
+   {
+    "title": "IT Training: Canvas Accessibility Scanner Workshop",
+    "description": "Learn how to use the Canvas Accessibility Scanner, review the dashboard, accessibility guide, and alternative file formats.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57294"
+   }
+  ],
+  "Club Meetings": [
+   {
+    "title": "Study with the Anime Club 5/7 (With Snacks)",
+    "description": "We'll be hanging out and offering a study space with chill music and snacks",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57336"
+   }
+  ],
+  "Academic Lectures": [
+   {
+    "title": "Seminar - Dr. Radu Sporea, University of Surrey",
+    "description": "This talk is addressed to those interested in efficient analog and mixed signal design with advanced thin-film transistors",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57335"
+   }
+  ],
+  "Athletics and Rec Sports": [
+   {
+    "title": "Finals Week Group Fitness Schedule Changes!",
+    "description": "Due to finals week some group fitness classes will be canceled",
+    "url": "https://minesathletics.com/news/2026/5/4/finals-week-group-fitness.aspx"
+   }
+  ]
+ },
+ "2026-05-06": {
+  "Important Deadlines": [
+   {
+    "title": "Act Fast: TWR Deadline Extended to May 13!",
+    "description": "Don't miss out! The deadline for the Thesis Writers Retreat is extended to 5/13. Limited seating available. Register today!",
+    "url": "https://writing.mines.edu/the-thesis-writers-retreat/"
+   },
+   {
+    "title": "Deadline Alert: Phone Request Forms Due May 15",
+    "description": "Submit a request form now to keep an external phone number, fax number or desk phone.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57321"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "2026 Classroom Improvement Committee (CIC) Impact Report",
+    "description": "See what the CIC has accomplished in the last year!",
+    "url": "https://undergraduatestudies.mines.edu/wp-content/uploads/sites/403/2026/05/2026-Classroom-Improvement-Committee-Impact-Report.pdf"
+   },
+   {
+    "title": "Are You Graduating in May?",
+    "description": "Are you the first in your family, other than siblings to attend college?",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57302"
+   },
+   {
+    "title": "Dining & Meal Plan Changes May 16th-31st",
+    "description": "Meal plans will be offline May 16th - 31st. View updated dining hours and payment details below.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57299"
+   },
+   {
+    "title": "Statista: your statistics resource available via the Library",
+    "description": "Statista provides data on business, society, tech and education via market reports, trade publications, journals, and more.",
+    "url": "https://libguides.mines.edu/Statista"
+   },
+   {
+    "title": "Support Open Access without publication fees",
+    "description": "Mines Library allows you to submit journal articles and other items to the Mines Repository using our submission guide.",
+    "url": "https://libguides.mines.edu/MRsubmissions"
+   }
+  ],
+  "Campus Events": [
+   {
+    "title": "Chemistry Tutoring Session this Thursday!",
+    "description": "Thursday May 7 Alderson 230 from 12-2pm, graduate students will be available for you to bring any chemistry questions",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57308"
+   },
+   {
+    "title": "Fuel for Finals",
+    "description": "Free breakfast and lunch from local businesses in the SAIL Office on 5/6 from 9:30 am - 2:00 pm!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57305"
+   },
+   {
+    "title": "Fuel your finals week focus with a Late-Night Snack",
+    "description": "Join us in the Periodic Table in the Student Center on Monday, May 11th from 7:30 PM \u201310:30 PM",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57275"
+   },
+   {
+    "title": "Good Days, Together: Mines Counselings Mission for May",
+    "description": "We're joining Mental Health America (MHA) to focus on a simple, shared goal: helping people have more good days, together.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57094"
+   },
+   {
+    "title": "Have Legos collecting dust? Donate them to Mines Lego Club!",
+    "description": "Come by on Thursday May 7th from 9-4pm in Brown 269 and donate Lego, which will go towards building competitions in the Fall!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57314"
+   },
+   {
+    "title": "IEEE & WEE Senior Sendoff | TODAY @5pm in Metals Hall",
+    "description": "Join IEEE & WEE for a celebration of the class of 2026! Refreshments will be served~",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=56878"
+   },
+   {
+    "title": "Interested in attending the oSTEM National Conference?",
+    "description": "The oSTEM National Conference is in Albuquerque, NM, October 22nd-24th. oSTEM@Mines will be sending a small group of students",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57301"
+   }
+  ],
+  "Career, Training and Professional Development Opportunities": [
+   {
+    "title": "Mental Health First Aid for Faculty and Staff on 5/18 & 5/19",
+    "description": "Two-day Mental Health First Aid training to recognize and support those facing mental health or substance use challenges.",
+    "url": "https://cglink.me/2iH/r1602684"
+   },
+   {
+    "title": "Mines Graduate Students: Energy Summer School in the Alps!",
+    "description": "Scholarships available for Mines graduate students (MS, PhD) for Energy Summer School in Austria June 1-7 2026",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57315"
+   },
+   {
+    "title": "Trefny Center Engineering Learning Fellowships (ELF or ELM)",
+    "description": "Make meaningful contributions to the culture of learning at Mines in \u201926-27. Earn $2-3K. Learn more and apply by May 15.",
+    "url": "https://trefnycenter.mines.edu/fellowships/"
+   }
+  ],
+  "Club Meetings": [
+   {
+    "title": "LAST LEGO CLUB MEETING OF THE SEMESTER!!!!",
+    "description": "Come stop by Lego Club one final time on 5/8 from 6-8 pm in McNeil 313 to take apart our builds and sort the leftover pieces!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57312"
+   }
+  ],
+  "Every Oredigger": [
+   {
+    "title": "Write A Gratitude Postcard! We Will Mail It Anywhere!",
+    "description": "Dropboxes with postcards are located in the Library, Green Center, and Student Center. Drop it in the box to be delivered!",
+    "url": "https://everyoredigger.mines.edu"
+   }
+  ]
+ },
+ "2026-05-05": {
+  "Closures and Outages": [
+   {
+    "title": "Labriola InnoHub Upcoming Closures and Finals Week Hours",
+    "description": "The InnoHub will be closed on Wednesday, 5/6, from 1-3PM for a staff event. Reduced hours starting Thursday, 5/7, 10 - 4PM.",
+    "url": "https://labriola.mines.edu/hours/"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "Graduating? Secure Your Files Before You Leave Campus",
+    "description": "If you're graduating this spring, there are a few things to do to ensure you don\u2019t lose your data and files when you leave.",
+    "url": "https://helpcenter.mines.edu/TDClient/1946/Portal/KB/ArticleDet?ID=150577"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "CSM 101 and CSM 202 Instructor Applications are Open!",
+    "description": "Support student success! Consider applying for CSM 101 and/or CSM 202 for the fall semester!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57276"
+   },
+   {
+    "title": "Final Food Truck This Thursday!",
+    "description": "No food trucks Tues/Wed this week. Join us Thursday, May 7 from 11AM\u20132PM for Mile High City Sliders!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57282"
+   },
+   {
+    "title": "FRIDAY - It's time to take a Pause for Paws during finals!",
+    "description": "Destress with therapy dogs (and cat) on Friday from 11am - 2pm in the Library. (Finn the cat will join us from 11-12:30.)",
+    "url": "https://cglink.me/2iH/r1602577"
+   },
+   {
+    "title": "HASS326 Music Theory Summer Class -Learn How Music 'Works'!",
+    "description": "Still needing a HASS 300-level course? HASS 326 is open to all students - no prior music ability required. Summer II M/W",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57297"
+   },
+   {
+    "title": "INVITATION TO HASS 418 (SUMMER ONE)! ENROLLMENT CLOSES 5/5",
+    "description": "TACKLE YOUR MAIN C+S REQUIREMENT NOW! SCIENCE FICTION + GEOGRAPHY + FILM ACROSS EUROPE, MIDDLE EAST, AND CAUCASUS MOUNTAINS",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57271"
+   },
+   {
+    "title": "New Teaching Features for Course Readings in Canvas!",
+    "description": "Now you can create assignments with citations, allow annotations on PDF's, import citations & more! Click to learn more!",
+    "url": "https://libguides.mines.edu/coursereadings/newfeatures"
+   },
+   {
+    "title": "STAY COOL WITH ART/FILM IN SUMMER II: INVITATION TO HASS 410",
+    "description": "COMPLETE YOUR MAIN C+S REQ NOW IN A PLEASURABLE, FLEXIBLE COURSE!  SCIENCE FICTION + FILM + ART +ARCHITECTURE",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57272"
+   }
+  ],
+  "Campus Events": [
+   {
+    "title": "Chamber Music Concert in Friedhoff - Wednesday, 5/6 at 6pm!",
+    "description": "Come to Friedhoff Hall Wednesday evening to hear music from Mines chamber ensembles. Free and open to the public! 6pm-7:30pm",
+    "url": "https://hass.mines.edu/events/"
+   },
+   {
+    "title": "IEEE & WEE Senior Sendoff | TOMORROW @5pm in Metals Hall",
+    "description": "Join IEEE & WEE for a celebration of the class of 2026! Refreshments will be served~",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=56877"
+   },
+   {
+    "title": "May 21 Lunch Bunch:  An Inside Look at the Mines Foundation",
+    "description": "The Mines Foundation - you\u2019ve heard the name . . . but what really happens behind the scenes?",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57278"
+   },
+   {
+    "title": "MTGN 333 Bladesmithing Showcase - 5/6 at 1-3:30pm, GC Lobby",
+    "description": "Come see the knives made by students in the Green Center Lobby from 1-3:30 pm on Wednesday, May 6th!",
+    "url": "https://metallurgy.mines.edu/wp-content/uploads/sites/23/2026/04/Bladeshow-flyer-S26.jpg"
+   },
+   {
+    "title": "ODAC Bagel Review Day 5/7 8-11 AM in Spruce Treehouse",
+    "description": "Join ODAC for bagels, coffee, tea, and orange juice on dead day! Come study, craft, relax, and more before finals!",
+    "url": "https://cglink.me/2iH/r1602904"
+   },
+   {
+    "title": "Twilight vs Heated Rivalry Trivia Night -  5/5 6-8pm MZ 126",
+    "description": "Join MAC for our last MAC Game Night where we will be doing Twilight vs Heated Rivalry Trivia! Acai bowls and prizes!",
+    "url": "https://cglink.me/2iH/r1602677"
+   }
+  ],
+  "Career, Training and Professional Development Opportunities": [
+   {
+    "title": "Everyday AI: Using NotebookLM for Productivity (Virtual)",
+    "description": "Learn how to apply NotebookLM to everyday tasks and boost your productivity.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57159"
+   },
+   {
+    "title": "IT Training: Canvas Accessibility Scanner Workshop",
+    "description": "Learn how to use the Canvas Accessibility Scanner, review the dashboard, accessibility guide, and alternative file formats.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57293"
+   }
+  ],
+  "Club Meetings": [
+   {
+    "title": "Anime Club 5/6 - Officers' Choice",
+    "description": "Anime Club meets at 6:30 PM in AH 151 every Wednesday. This meeting, we are watching whatever our officers want!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57295"
+   }
+  ],
+  "Every Oredigger": [
+   {
+    "title": "Last week to register for Mental Health First Aid training!",
+    "description": "Join us on May 18-19 from 8am-12pm, and learn how to identify and support someone who is struggling. Register via OreConnect!",
+    "url": "https://cglink.me/2iH/r1602684"
+   }
+  ]
+ },
+ "2026-05-15": {
+  "Closures and Outages": [
+   {
+    "title": "Labriola InnoHub Shops and Makerspace Closed May 14 - May 31",
+    "description": "Labriola InnoHub shops and Makerspace will be closed from 5/14 - 5/31, except for Physics Field Session. Will reopen on, 6/1.",
+    "url": "https://labriola.mines.edu/hours/"
+   },
+   {
+    "title": "The Financial Aid office is closed today!",
+    "description": "Congratulations Grads! We are excited to help celebrate all of your accomplishments!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57353"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "CSM 101 and CSM 202 Instructor Applications Close on Sunday!",
+    "description": "Support student success! Consider applying for CSM 101 and/or CSM 202 for the fall semester!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57281"
+   },
+   {
+    "title": "Final Call: Phone Requests Due TODAY",
+    "description": "This is the final day to request to keep a physical phone, fax, or external number before the end of the day.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57324"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "Congratulations to Christian Beren, T@M Faculty Champion!",
+    "description": "Faculty members are a critical resource for students charting their career paths. Congrats, Christian!",
+    "url": "https://www.mines.edu/teacherprep/congratulations-to-christian-beren-tm-faculty-champion/"
+   },
+   {
+    "title": "Health Center Summer Hours",
+    "description": "Starting Monday, May 18 the Health Center will close at 4:30pm daily.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57385"
+   },
+   {
+    "title": "The Wall Street Journal NOW Available-register today!",
+    "description": "The Library has a Wall Street Journal subscription. Click to register for an account. Access as wsj.com or via their apps.",
+    "url": "https://libguides.mines.edu/WSJ"
+   }
+  ],
+  "Career, Training and Professional Development Opportunities": [
+   {
+    "title": "Digital Accessibility Training hosted by Mines IT",
+    "description": "Learn five easy steps to make your digital materials accessible and improve experiences for all.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57390"
+   },
+   {
+    "title": "IT Training: Boost productivity with smarter file management",
+    "description": "Learn how to organize, store, and collaborate on files using the cloud tools available at Mines.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57391"
+   },
+   {
+    "title": "Mental Health First Aid for Faculty and Staff on 5/18 & 5/19",
+    "description": "Two-day Mental Health First Aid training to recognize and support those facing mental health or substance use challenges.",
+    "url": "https://cglink.me/2iH/r1602684"
+   },
+   {
+    "title": "More Good Days, Together: A virtual wellness experience 5/20",
+    "description": "Join MHA for a virtual wellness event featuring chair yoga, journaling, and habit-building tips to support your mental health",
+    "url": "https://mhanational.org/calendar/more-good-days-together-a-virtual-wellness-experience/"
+   }
+  ]
+ },
+ "2026-05-14": {
+  "Closures and Outages": [
+   {
+    "title": "The SAIL office will be closed May 14-15",
+    "description": "SAIL will be closed all-day! Please email SAIL@mines.edu with any questions",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57369"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "Graduating? Secure your Files Before Leaving Campus Tomorrow",
+    "description": "If you're graduating this spring, there are a few things to do to ensure you don\u2019t lose your data and files when you leave.",
+    "url": "https://helpcenter.mines.edu/TDClient/1946/Portal/KB/ArticleDet?ID=150577"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "Concerns about Academic Misconduct",
+    "description": "As you finish grading, if you have concerns of academic misconduct, contact Community Standards for more info on next steps",
+    "url": "https://www.mines.edu/student-life/community-standards/academic-integrity/faculty-guidance/"
+   },
+   {
+    "title": "CRUISE TO COMPLETE YOUR C+S REQUIREMENTS! HASS 410 (SUM 2)",
+    "description": "WELCOME TO HASS 410 IN JULY! A COOL, FLEXIBLE WAY TO SPEED YOUR WAY TO GRADUATION! ENROLLMENT CLOSES JUNE 15!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57387"
+   },
+   {
+    "title": "LGBTQ+ Rights Database is now available FREE of charge!",
+    "description": "With the Library\u2019s HeinOnline subscription access the LGBTQ+ Rights database by clicking here! See other databases too.",
+    "url": "https://libguides.mines.edu/heinonline"
+   },
+   {
+    "title": "The B.S. in Quantum Systems Engineering launches this fall!",
+    "description": "Students can now officially update their major to the new B.S. Quantum Systems Engineering! Click for important details.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57383"
+   },
+   {
+    "title": "You wrote it, do you own it? Can you reuse it?",
+    "description": "Have questions about copyright? The Library has you covered with workshops, consultations, or email at Scholcomm@mines.edu",
+    "url": "https://libguides.mines.edu/copyright"
+   }
+  ],
+  "Athletics and Rec Sports": [
+   {
+    "title": "SRC & Motion Lab Closed for Commencement May 14th & 15th.",
+    "description": "The SRC and Motion Lab will be closed Thursday - Sunday (May 14th-17th) for Commencement.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57375"
+   },
+   {
+    "title": "Summer Personal Training Sale!",
+    "description": "Use code: \"summer20\" to get 20% off any personal training package this summer! Runs from May 11th to May 29th!",
+    "url": "https://recsportsstore.mines.edu/MultiVisitPass/GetProducts"
+   }
+  ]
+ },
+ "2026-05-13": {
+  "Closures and Outages": [
+   {
+    "title": "Financial Aid office CLOSED Monday and Tuesday",
+    "description": "Your friendly neighborhood financial aid office will be closed on Monday and Tuesday, May 18-19, for departmental meetings",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=56925"
+   },
+   {
+    "title": "IT Service Desk hours updated to 8am-6pm",
+    "description": "The hours of operation for the IT Service Desk in CTLM 156 have updated to 8am-6pm today through the summer.",
+    "url": "https://helpcenter.mines.edu"
+   },
+   {
+    "title": "Lane Closure on 19th St. at Elm Circle on May 19th-May 22",
+    "description": "Tuesday, May 19th - Friday, May 22nd, one lane of 19th and around to Elm St. will be closed.  See link for details",
+    "url": "https://operations.mines.edu/alert/lane-closure-on-19th-street-at-the-elm-circle-may-19-22-2026/2026-05-19/"
+   },
+   {
+    "title": "The Financial Aid office will be closed on Friday May 15th.",
+    "description": "Congratulations Grads! We will be closed Friday to help celebrate all of your accomplishments!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57352"
+   }
+  ],
+  "Important Deadlines": [
+   {
+    "title": "CSM 101 and CSM 202 Instructor Applications Close on Sunday!",
+    "description": "Support student success! Consider applying for CSM 101 and/or CSM 202 for the fall semester!",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57280"
+   },
+   {
+    "title": "Graduating? Report your post-graduation plans",
+    "description": "Complete the First Destination Survey about your plans after graduation, including requesting job search help",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57377"
+   },
+   {
+    "title": "Graduating? Secure Your Files Before You Leave Campus",
+    "description": "If you're graduating this spring, there are a few things to do to ensure you don\u2019t lose your data and files when you leave.",
+    "url": "https://helpcenter.mines.edu/TDClient/1946/Portal/KB/ArticleDet?ID=150577"
+   }
+  ],
+  "Campus Announcements": [
+   {
+    "title": "Are You Graduating in May?",
+    "description": "Are you the first in your family, other than siblings to attend college?",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57304"
+   },
+   {
+    "title": "What makes us unique? Celebrate others through reading.",
+    "description": "Check out the Library\u2019s Diversity Collection. Have a suggestion? Let us know! library.mines.edu/suggest-a-purchase",
+    "url": "https://mines.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01COLSCHL_INST:MINES&inst=01COLSCHL_INST&collectionId=81152654740002341"
+   }
+  ],
+  "Career, Training and Professional Development Opportunities": [
+   {
+    "title": "Earn a certification in Mental Health and First Aid on 5/18",
+    "description": "Two-day Mental Health First Aid training to recognize and support those facing mental health or substance use challenges.",
+    "url": "https://cglink.me/2iH/r1602684"
+   }
+  ],
+  "Athletics and Rec Sports": [
+   {
+    "title": "Student Rec Center Pool Closure May 18-22.",
+    "description": "The Student Rec Center Pool will be closed for maintenance the week of May 18th.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57373"
+   },
+   {
+    "title": "Student Rec Center: No Open Swim 6-8 PM on Wed, May 13th.",
+    "description": "Student Rec Center - Evening Open Swim 6-8 PM has been canceled on Wednesday, May 13th.",
+    "url": "https://webapps.mines.edu/DailyBlast/Home/ShowDigestItem?ID=57379"
+   }
+  ]
  }
 }
