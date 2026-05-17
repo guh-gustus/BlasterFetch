@@ -1,7 +1,7 @@
 from typing import Final, TypeVar, TypedDict
 from enum import IntEnum, StrEnum
 
-DATE_FORMAT: Final[str] = "%A, %B %d, %Y"
+SOURCE_DATE_FORMAT: Final[str] = "%A, %B %d, %Y"
 DAILY_BLAST_URL: Final[str] = "https://webapps.mines.edu/DailyBlast/Home/"
 SAVE_FILE_PATH: Final[str] = "daily_blasts.json"
 
@@ -11,7 +11,6 @@ class SyncStatus(IntEnum):
     UP_TO_DATE = 0
     NO_DIGESTS_TODAY = 1
     SUCCESS = 2
-
 
 class Categories(StrEnum):
     CLOSURES = "Closures and Outages"
@@ -30,9 +29,11 @@ class Digest(TypedDict):
     description: str
     url: str
 
-DigestCategory = dict[Categories, list[Digest]]
+DigestCategories = dict[Categories, list[Digest]]
 
-DigestDateManager = dict[str, DigestCategory]
+
+DigestDateManager = dict[str, DigestCategories]
 
 SyncResult = T | SyncStatus
 
+DIGEST_DISPLAY_WIDTH = 40

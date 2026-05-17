@@ -6,7 +6,7 @@ import datetime
 from bs4 import BeautifulSoup, SoupStrainer, Tag
 
 from globals import (
-    DATE_FORMAT,
+    SOURCE_DATE_FORMAT,
     DAILY_BLAST_URL,
     SAVE_FILE_PATH,
     SyncStatus,
@@ -34,25 +34,20 @@ def digest_from_tag(digest_tag: Tag) -> Digest:
 
     return Digest(title=title_tag.text, description=description, url=title_tag["href"])
 
-def load_saved_digests(filepath=SAVE_FILE_PATH) -> SyncResult[DigestDateManager]:
-    today = datetime.date.today()
-
+def load_saved_digests(filepath=SAVE_FILE_PATH) -> DigestDateManager:
     with open(filepath, "r") as saved_digest:
         digests: DigestDateManager = json.load(saved_digest)
 
-    if str(today) in digests:
-        return SyncStatus.UP_TO_DATE
-    else:
-        return digests
+    return digests
 
-def is_unscraped_date(tag: Tag, date_strs: list[str]) -> bool:
+def is_unscraped_date(tag: Tag, date_strs: set[str]) -> bool:
     try:
         assert tag.name == "td" and (
             tag["class"] == "DigestCategoryDate"
             or tag["class"] == ["DigestCategoryDate"]
         )
         text = tag.text
-        date = datetime.date.strptime(text, DATE_FORMAT)
+        date = datetime.date.strptime(text, SOURCE_DATE_FORMAT)
         assert str(date) not in date_strs
         return True
     except (ValueError, AssertionError, KeyError):
@@ -61,7 +56,7 @@ def is_unscraped_date(tag: Tag, date_strs: list[str]) -> bool:
 def parse_document(dates_to_sync: ResultSet[Tag], digests: DigestDateManager) -> DigestDateManager:
     for date_tag in dates_to_sync:
         date_text: str = date_tag.get_text(strip=True)
-        date = str(datetime.date.strptime(date_text, DATE_FORMAT))
+        date = str(datetime.date.strptime(date_text, SOURCE_DATE_FORMAT))
         category = Categories.NONE
         digests[date] = {}
 
@@ -86,7 +81,11 @@ def parse_document(dates_to_sync: ResultSet[Tag], digests: DigestDateManager) ->
 def get_dates_to_sync(
     url: str, 
     headers: dict[str, str], 
-    date_strs: list[str]) -> SyncResult[ResultSet[Tag]]:
+    date_strs: set[str]) -> SyncResult[ResultSet[Tag]]:
+
+    today = datetime.date.today().strftime(SOURCE_DATE_FORMAT)
+    if today in date_strs:
+        return SyncStatus.UP_TO_DATE
 
     daily_blast_doc = requests.get(url, headers)
     parse_only_table = SoupStrainer(["td", "tr"])
@@ -104,14 +103,10 @@ def get_dates_to_sync(
         return dates_to_sync
 
 def main() -> SyncResult:
-    loaded: SyncResult[DigestDateManager] = load_saved_digests()
-    if isinstance(loaded, SyncStatus):
-        return loaded
-    else:
-        digests = loaded
+    digests: DigestDateManager = load_saved_digests()
         
     dates_to_sync: SyncResult[ResultSet[Tag]] = get_dates_to_sync(
-        DAILY_BLAST_URL, HEADERS, list(digests.keys())
+        DAILY_BLAST_URL, HEADERS, set(digests.keys())
     )
 
     if isinstance(dates_to_sync, SyncStatus):
