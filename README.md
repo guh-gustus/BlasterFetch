@@ -4,8 +4,11 @@ BlasterFetch is a tool that turns the Colorado School of Mines newsletter (The D
 ## Installation
 This tool requires Python 3.14 or greater.
 ### pip or pipx
-`pip install git+https://github.com/guh-gustus/BlasterFetch.git`
-`pipx install git+https://github.com/guh-gustus/BlasterFetch.git`
+
+```
+pip install git+https://github.com/guh-gustus/BlasterFetch.git
+pipx install git+https://github.com/guh-gustus/BlasterFetch.git
+```
 
 ## Usage
 ### `blasterfetch [OPTIONS]`
