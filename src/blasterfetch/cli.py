@@ -1,7 +1,4 @@
-from .services import fetcher, filterer, parser, renderer
-from .storage import DataManager
+from .blasterfetch import blasterfetch
 
-def app():
-    data_manager = DataManager()
-    digests = data_manager.load()
-    renderer.render(digests)
+def main():
+    blasterfetch()

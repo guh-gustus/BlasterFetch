@@ -9,6 +9,7 @@ from rich.text import Text
 
 from blasterfetch.enums import Categories
 from blasterfetch.types import Digest, DigestDateManager, DateNotFoundError
+from blasterfetch.config import EXPECTED_DATE_FORMAT
 
 DEFAULT_COLUMN_WIDTH = 40
         
@@ -51,15 +52,23 @@ def add_horizontal_rule(text: str,
 
 
 def render(digests: DigestDateManager,
-           date_to_render: datetime.date | None = None,
-           strict_date: bool = False,
-           column_width: int = DEFAULT_COLUMN_WIDTH):
-    if date_to_render is None:
+           date: str,
+           fuzzy_date: bool = True,
+           column_width: int = DEFAULT_COLUMN_WIDTH,
+           excluded_category_strs: list[str] = []):
+    if date == "":
         date_to_render = datetime.date.today()
+    else:
+        try:
+            date_to_render = datetime.date.strptime(date, EXPECTED_DATE_FORMAT) 
+        except ValueError:
+            date_to_render = datetime.date.today()
+        
     console = Console()
     num_columns = console.width // column_width
     
-    if strict_date and str(date_to_render) not in digests.keys():
+    if (not fuzzy_date 
+        and str(date_to_render) not in digests.keys()):
         raise DateNotFoundError()
     
     while str(date_to_render) not in set(digests.keys()):
@@ -73,7 +82,17 @@ def render(digests: DigestDateManager,
 
     printed_digests = digests[str(date_to_render)]
     elements = []
+    
+    excluded_categories = []
+    for category_name in excluded_category_strs:
+        if category_name in Categories.__members__:
+            excluded_categories.append(category_name)
+    
     for category, digest_items in printed_digests.items():
+        
+        if category in excluded_categories:
+            continue
+        
         elements.append(format_category_header(category))
         elements.extend(format_digests(digest_items))
         

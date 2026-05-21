@@ -6,6 +6,8 @@ authors = [
     {name = "Gus Geiselman",email = "gus@geiselman.dev"}
 ]
 readme = "README.md"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
 requires-python = ">=3.14"
 dependencies = [
     "beautifulsoup4 (>=4.14.3,<5.0.0)",
@@ -15,8 +17,12 @@ dependencies = [
 ]
 
 [project.scripts]
-blasterfetch = "blasterfetch.cli:app"
+blasterfetch = "blasterfetch.cli:main"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[project.urls]
+Source = "https://github.com/guh-gustus/BlasterFetch"
+Data = "https://webapps.mines.edu/DailyBlast/"

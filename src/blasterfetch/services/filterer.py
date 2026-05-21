@@ -6,6 +6,28 @@ from bs4.element import ResultSet
 from blasterfetch.config import SOURCE_DATE_FORMAT
 from blasterfetch.types import NoNewBlasts
 
+def confirmation(never_refetch: bool,
+                       force_fetch: bool, 
+                       date_strs: set[str]):
+    if force_fetch: 
+        return True
+    
+    FRIDAY = 4
+    today_date = datetime.date.today()
+    today = str(today_date)
+    
+    if today_date.weekday() > FRIDAY and not never_refetch:
+        confirm = input("Today is the weekend, which means no new daily blast has been posted. Fetch anyway? [y/N]")
+        return confirm[0].lower() == "y"
+    
+    if today in date_strs and never_refetch: 
+        return False
+    elif today in date_strs:
+        confirm = input("It looks like today's daily blast has already been downloaded. Fetch anyway? [y/N]")
+        return confirm[0].lower() == "y"
+    else:
+        return True
+
 def is_unscraped_date(tag: Tag, date_strs: set[str]) -> bool:
     try:
         assert tag.name == "td" and (
