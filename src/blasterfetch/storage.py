@@ -2,15 +2,18 @@ import json
 from .types import DigestDateManager
 
 from importlib.resources import files
+from os import PathLike
 
-DATA_FILE = files("blasterfetch").joinpath("data/daily_blasts.json")
-
-
+DEFAULT_DATA_FILE = files("blasterfetch").joinpath("data/daily_blasts.json")
 class DataManager:
+    def __init__(self, 
+                 data_file: PathLike = DEFAULT_DATA_FILE):
+        self.DATA_FILE = data_file
+    
     def load(self) -> DigestDateManager:
-        if not DATA_FILE.exists():
+        if not self.DATA_FILE.exists():
             return {}
-        return json.loads(DATA_FILE.read_text())
+        return json.loads(self.DATA_FILE.read_text())
 
     def save(self, data) -> None:
-        DATA_FILE.write_text(json.dumps(data, indent=2))
+        self.DATA_FILE.write_text(json.dumps(data, indent=2))
