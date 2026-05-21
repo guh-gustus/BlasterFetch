@@ -93,7 +93,6 @@ def blasterfetch(
                                             date_strs)):
         try:
             raw_html = fetcher.fetch_webpage()
-            print(raw_html)
             filtered_dates = filterer.filter(raw_html, date_strs)
         except NoNewBlasts as e:
             if not never_refetch:
