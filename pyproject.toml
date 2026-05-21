@@ -1,0 +1,22 @@
+[project]
+name = "blasterfetch"
+version = "0.1.0"
+description = "Fetches and formats the Colorado School of Mines 'Daily Blast' newsletter into a CLI"
+authors = [
+    {name = "Gus Geiselman",email = "gus@geiselman.dev"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4 (>=4.14.3,<5.0.0)",
+    "rich (>=15.0.0,<16.0.0)",
+    "requests (>=2.34.2,<3.0.0)",
+    "click (>=8.4.0,<9.0.0)"
+]
+
+[project.scripts]
+blasterfetch = "blasterfetch.cli:app"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
