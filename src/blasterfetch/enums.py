@@ -10,4 +10,5 @@ class Categories(StrEnum):
     CLUB_MEETINGS = "Club Meetings"
     LECTURES = "Academic Lectures"
     ATHLETICS = "Athletics and Rec Sports"
+    RESEARCH = "Research Announcements"
     NONE = ""
