@@ -36,8 +36,8 @@ from .types import NoNewBlasts
 @click.option(
     "--excluded-categories",
     "-x",
-    default=[],
-    help="list of excluded categories. Options are: CLOSURES, EMPLOYEE, DEADLINES, CAMPUS_ANNOUNCEMENTS, CAMPUS_EVENTS, CAREER, CLUB_MEETINGS, LECTURES, & ATHLETICS",
+    default="",
+    help="comma seperated list of excluded categories. Options are: CLOSURES, EMPLOYEE, DEADLINES, CAMPUS_ANNOUNCEMENTS, CAMPUS_EVENTS, CAREER, CLUB_MEETINGS, LECTURES, ATHLETICS, RESEARCH, EVERY_OREDIGGER",
 )
 @click.option(
     "--path",
@@ -70,7 +70,7 @@ def blasterfetch(
     silent: bool,
     local: bool,
     column_width: int,
-    excluded_categories: list[str],
+    excluded_categories: str,
     path: PathLike,
     date: str,
     fuzzy_date: bool,
@@ -104,4 +104,4 @@ def blasterfetch(
         saved_blasts = new_blasts
 
     if not silent:
-        renderer.render(saved_blasts, date, fuzzy_date, column_width, excluded_categories)
+        renderer.render(saved_blasts, date, fuzzy_date, column_width, excluded_categories.split(","))

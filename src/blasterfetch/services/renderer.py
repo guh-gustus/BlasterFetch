@@ -86,15 +86,14 @@ def render(digests: DigestDateManager,
     excluded_categories = []
     for category_name in excluded_category_strs:
         if category_name in Categories.__members__:
-            excluded_categories.append(category_name)
+            excluded_categories.append(Categories[category_name])
     
     for category, digest_items in printed_digests.items():
-        
         if category in excluded_categories:
             continue
-        
-        elements.append(format_category_header(category))
-        elements.extend(format_digests(digest_items))
+        else:
+            elements.append(format_category_header(category))
+            elements.extend(format_digests(digest_items))
         
     total_height = sum([len(console.render_lines(element)) for element in elements])
     column_height = total_height//num_columns - COLUMN_HEIGHT_TOLERANCE

@@ -1,6 +1,6 @@
 [project]
 name = "blasterfetch"
-version = "1.0.0"
+version = "1.0.1"
 description = "Fetches and formats the Colorado School of Mines 'Daily Blast' newsletter into a CLI"
 authors = [
     {name = "Gus Geiselman",email = "gus@geiselman.dev"}
