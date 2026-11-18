@@ -11,4 +11,5 @@ class Categories(StrEnum):
     LECTURES = "Academic Lectures"
     ATHLETICS = "Athletics and Rec Sports"
     RESEARCH = "Research Announcements"
+    EVERY_OREDIGGER = "Every Oredigger"
     NONE = ""
